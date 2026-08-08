@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Quiteqiang! </br>
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech </br>
-👩🏻‍🎓 Studied at Taylor University, US. </br>
+👩🏻‍🎓 Studying at UWA, Australia. </br>
 🎨 Coding is like drawing for me. Make it possible. </br>
 💭 The ULTIMATE goal is to have my own start-up. </br>
 
